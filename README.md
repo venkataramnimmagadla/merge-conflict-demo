@@ -1,3 +1,4 @@
 # merge-conflict-demo
-Hello from main branch
-Project version 1.5
+feature
+Hello from feature branch
+Project version 2.0
